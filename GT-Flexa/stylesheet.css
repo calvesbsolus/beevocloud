@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'GT Flexa Ext Md';
+    src: url('GTFlexa-ExtMd.woff2') format('woff2'),
+        url('GTFlexa-ExtMd.woff') format('woff'),
+        url('GTFlexa-ExtMd.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
