@@ -1,10 +1,9 @@
 @font-face {
     font-family: 'GT Flexa Ext Md';
-    src: url('GTFlexa-ExtMd.woff2') format('woff2'),
-        url('GTFlexa-ExtMd.woff') format('woff'),
-        url('GTFlexa-ExtMd.ttf') format('truetype');
+    src: url('https://github.com/calvesbsolus/beevocloud/blob/main/GT-Flexa/GTFlexa-ExtMd.woff2?raw=true') format('woff2'),
+        url('https://github.com/calvesbsolus/beevocloud/blob/main/GT-Flexa/GTFlexa-ExtMd.woff?raw=true') format('woff'),
+        url('https://github.com/calvesbsolus/beevocloud/blob/main/GT-Flexa/GTFlexa-ExtMd.ttf?raw=true') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
-
